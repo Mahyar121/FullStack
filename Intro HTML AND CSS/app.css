@@ -1,0 +1,26 @@
+h1 {
+	color: #FF0000;
+
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 5px solid purple;
+	background-color: white;
+}
+
+li {
+	color: #4B0082;
+}
+
+h4 {
+	border: 3px solid white;
+	background: rgb(255,100,80);
+}
+
+body {
+	
+	background: url(http://www.thepaintershandbook.com/wp-content/uploads/2016/10/Video-Game-Wallpapers.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
